@@ -1,0 +1,13 @@
+# CMake
+build
+cmake-build-debug
+CMakeLists.txt.user*
+
+# VS Code
+.vscode
+
+# VS
+.vs
+CMakeSettings.json
+CppProperties.json
+out
